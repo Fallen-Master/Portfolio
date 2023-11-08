@@ -1,0 +1,22 @@
+/* #footer-color{
+  background-color:#152c3b;;
+} */
+
+/* #bottom-footer{
+  position: fixed ;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+} *//* Add these styles to your CSS */
+.wrapper {
+  min-height: 75vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.footerBottom {
+  background-color: #152c3b;
+  padding: 20px; /* Adjust the padding as needed */
+  margin-top: auto; /* This will push the footer to the bottom */
+  text-align: center;
+}
