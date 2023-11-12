@@ -15,7 +15,7 @@ const AboutMe = () => {
         If you'd like to connect or see some of my work, feel free to check out my portfolio or get in touch!
       </p>
       {/* You can link to your portfolio or contact page here */}
-      <a href="/portfolio">My Portfolio</a> | <a href="/contact">Contact Me</a>
+      <a href="/Portfolio">My Portfolio</a> | <a href="/Contact">Contact Me</a>
     </div>
   );
 };
