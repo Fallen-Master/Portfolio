@@ -1,8 +1,7 @@
-import React from 'react';
-
+import './textColor.css'
 const AboutMe = () => {
   return (
-    <div style={{ padding: '20px' }}>
+    <div className='textColor' style={{ padding: '20px' }}>
       <h1>About Me</h1>
       <p>Hello! I'm [Your Name], a passionate frontend developer.</p>
       <p>

@@ -12,21 +12,21 @@ function Header() {
         </Link>
       </div>
 
-      <div className="navbar-menu">
+      <div className="navbar-menu ">
         <div className="navbar-start">
-          <Link to="/AboutMe" className={currentPage === '/AboutME' ? 'navbar-item is-active is-selected ' : 'navbar-item '} >
+          <Link to="/AboutMe" className={currentPage === '/AboutME' ? 'navbar-item is-active is-selected ' : 'navbar-item textColor'}  >
             About Me
           </Link>
 
-          <Link to="/Portfolio" className={currentPage === '/Portfolio' ? 'navbar-item is-active' : 'navbar-item'}>
+          <Link to="/Portfolio" className={currentPage === '/Portfolio' ? 'navbar-item is-active' : 'navbar-item textColor'}>
             Portfolio
           </Link>
 
-          <Link to="/Contact" className={currentPage === '/Contact' ? 'navbar-item is-active' : 'navbar-item'}>
+          <Link to="/Contact" className={currentPage === '/Contact' ? 'navbar-item is-active' : 'navbar-item textColor'}>
             Contact
           </Link>
 
-          <Link to="/Resume" className={currentPage === '/Resume' ? 'navbar-item is-active' : 'navbar-item'}>
+          <Link to="/Resume" className={currentPage === '/Resume' ? 'navbar-item is-active' : 'navbar-item textColor'}>
             Resume
           </Link>
         </div>
