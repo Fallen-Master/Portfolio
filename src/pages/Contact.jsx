@@ -1,11 +1,13 @@
-import { Form, } from "react-bulma-components";
+import { Form, Container } from "react-bulma-components";
 import useEmailValidation from "../utils/validEmail";
-import './textColor.css';
+import './pagesCSS.css';
 
 const Contact = () => {
   const { email, isValidEmail, handleEmailChange } = useEmailValidation();
   return (
-    <div className="container p-5">
+    <Container>
+
+    <div className="p-5">
 
       <Form.Field >
         <Form.Label className="mb-2 textColor" >Name</Form.Label>
@@ -42,6 +44,7 @@ const Contact = () => {
 
 
     </div>
+    </Container>
   );
 
 };
