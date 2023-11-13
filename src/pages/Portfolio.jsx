@@ -7,11 +7,11 @@ const Portfolio = () => {
   return (
     <Container>
       <Columns className="is-multiline" >
-          {projectData.map((projects, index) => (
-            <Columns.Column className="column-width" size={3} key={index}>
-              <Projects {...projects} />
-            </Columns.Column>
-          ))}
+        {projectData.map((projects, index) => (
+          <Columns.Column className="column-width" size={3} key={index}>
+            <Projects {...projects} />
+          </Columns.Column>
+        ))}
       </Columns>
     </Container>
   )

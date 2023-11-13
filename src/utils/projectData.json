@@ -3,44 +3,42 @@
     "title": "Weather APP",
     "description": "The Weather app allows you to use the data from OpenWeather API and plan ahead for your trips.",
     "image": "https://raw.githubusercontent.com/Fallen-Master/Weather-app/main/Assets/Images/Weather%20Dashboard.jpg",
-    "githubRepoUrl": "https://github.com/Fallen-Master/Weather-app" ,
+    "githubRepoUrl": "https://github.com/Fallen-Master/Weather-app",
     "websiteUrl": "https://fallen-master.github.io/Weather-app/"
   },
   {
     "title": "Work Day Scheduler",
     "description": "The Work Day Tracker App allows you to save events for each work day from 9:00 AM to 5:00 PM. This application is run in the browser and dynamically updates the HTML and CSS using jQuery.",
     "image": "https://raw.githubusercontent.com/Fallen-Master/Work-Day-Tracker/main/asset/image/Work-Day-Tracker.jpg",
-    "githubRepoUrl": "https://github.com/Fallen-Master/Weather-app" ,
+    "githubRepoUrl": "https://github.com/Fallen-Master/Weather-app",
     "websiteUrl": "https://github.com/Fallen-Master"
   },
   {
     "title": "Movie Wichlist Builder",
     "description": "Welcome to \"Reelly,\" our first collaborative web application for searching and saving movies to watch later. The idea for this application comes from that all too common interaction of: \"Have you ever seen X?\" \"Nope.\" \"REALLY!? You've got to check it out!\"So Reelly. Using API's integrated into IMDB and Streaming Services you can search for a specific movie, identify what streaming platforms it's available on, and save it to a list to watch later. Once you've finished with the move just go to your saved list and remove it. The list uses local storage so be sure not to clear your cache if you value your list!",
     "image": "https://raw.githubusercontent.com/dan-watkins/movie-wishlist-builder/main/assets/images/Movie-Wishlist.png",
-    "githubRepoUrl": "https://dan-watkins.github.io/movie-wishlist-builder/" ,
+    "githubRepoUrl": "https://dan-watkins.github.io/movie-wishlist-builder/",
     "websiteUrl": "https://dan-watkins.github.io/movie-wishlist-builder/"
   },
   {
     "title": "JATE",
     "description": "Welcome to \"Reelly,\" our first collaborative web application for searching and saving movies to watch later. The idea for this application comes from that all too common interaction of: \"Have you ever seen X?\" \"Nope.\" \"REALLY!? You've got to check it out!\"So Reelly. Using API's integrated into IMDB and Streaming Services you can search for a specific movie, identify what streaming platforms it's available on, and save it to a list to watch later. Once you've finished with the move just go to your saved list and remove it. The list uses local storage so be sure not to clear your cache if you value your list!",
     "image": "https://raw.githubusercontent.com/Fallen-Master/JATE/main/Assets/JATE.jpg",
-    "githubRepoUrl": "https://github.com/Fallen-Master/JATE" ,
+    "githubRepoUrl": "https://github.com/Fallen-Master/JATE",
     "websiteUrl": "https://rafael-jate-d7fd6c2ba8bc.herokuapp.com/"
   },
   {
     "title": "JS Quiz",
     "description": "This is a beginners quiz game built from HTML,CSS, and JavaScript. The game will ask a few questions to the user and collect their score based on their performance.",
     "image": "https://raw.githubusercontent.com/Fallen-Master/JS_Quiz/main/Assets/image.png",
-    "githubRepoUrl": "https://github.com/Fallen-Master/JS_Quiz" ,
+    "githubRepoUrl": "https://github.com/Fallen-Master/JS_Quiz",
     "websiteUrl": "https://fallen-master.github.io/JS_Quiz/"
   },
   {
     "title": "Password Generator",
     "description": "The Password Generator application is designed for individuals who tend to reuse the same passwords repeatedly. This tool allows users to generate unique and secure passwords by specifying the desired length and selecting from various character types. For instance, with a password length of eight characters and using all character types, it is theoretically possible to generate approximately 7.96 trillion unique passwords.",
     "image": "https://raw.githubusercontent.com/Fallen-Master/Password_Generator/main/Assets/Password_Generator_test.jpg",
-    "githubRepoUrl": "https://github.com/Fallen-Master/Password_Generator" ,
+    "githubRepoUrl": "https://github.com/Fallen-Master/Password_Generator",
     "websiteUrl": "https://fallen-master.github.io/Password_Generator/"
   }
-
-  
 ]

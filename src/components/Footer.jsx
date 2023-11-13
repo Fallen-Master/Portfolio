@@ -1,4 +1,4 @@
-// import githubWhiteMark from '../image/github-mark-white.png';
+// import githubWhiteMark from '../mage/github-mark-white.png';
 import githubMark from '../image/github-mark.png'
 import linkedInLogo from '../image/LI-In-Bug.png';
 
@@ -11,9 +11,6 @@ function Footer() {
       <footer className="" id='bottom-footer' role="contentinfo">
         <div className="content has-text-centered">
           <div className="icons is-flex is-justify-content-center">
-            {/* <a href="https://github.com/Fallen-Master" target="_blank" rel="noopener noreferrer" className='icon mx-3'>
-              <img src={githubWhiteMark} alt="Github" />
-            </a> */}
             <a href="https://github.com/Fallen-Master" target="_blank" rel="noopener noreferrer" className='icon mx-3'>
               <img src={githubMark} alt="Github" />
             </a>
@@ -26,7 +23,7 @@ function Footer() {
       </footer>
     </div>
   );
-  
+
 }
 
 export default Footer;

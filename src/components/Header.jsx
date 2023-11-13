@@ -8,7 +8,7 @@ function Header() {
     <nav className="navbar" id='nav-color' role="navigation" aria-label="main navigation">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
-          <h1>Rafael Gomez</h1>
+          <h1 style={{ color: "#de2d2f" }}>Rafael Gomez</h1>
         </Link>
       </div>
 

@@ -1,12 +1,40 @@
-<<<<<<< HEAD
-# React + Vite
+# Porfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+    
+## Description
+This is a portfolio show casing the bootcamps Challenges and my current        
+  
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing Guidelines](#contributing-guidelines)
+- [Test](#test)
+- [Questions](#questions)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Portfolio
->>>>>>> a0d0ad9325c001bdf7ce8d41835820f1befba101
+## Preview
+![Preview](./assets/image/Portfolio%20Page.png)
+  
+## Installation
+Run the following command to install dependencies:
+```
+npm i
+```
+  
+## Usage
+
+  
+
+  
+## Contributing Guidelines
+
+
+## Test 
+To run tests, run the following command:
+```
+npm test
+```
+  
+## Questions 
+If you have any questions about the repo, open an issue or contact me directly at [rgomez2014@gmail.com](mailto:rgomez2014@gmail.com). 
+You can find more of my work at [Fallen-Master](https://github.com/Fallen-Master)

@@ -1,14 +1,12 @@
 .textColor {
   color: #c2dce4;
 }
+
 .profile-pic img {
   width: 500px;
   height: auto;
 }
 
-/* .column-width {
-  width: 324px;
-  height: 520px;
-  margin-bottom: 10px;
-} */
-
+h2 {
+  font-weight: bolder;
+}
