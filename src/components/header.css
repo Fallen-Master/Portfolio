@@ -1,11 +1,14 @@
 
 h1 {
-  color: #f4f9fa;
+  color: #de2d2f;
 }
 
 #nav-color{
-  background-color:#152c3b;;
+  background-color:#092934;
+  /* color:#006664; */
 }
 .textColor {
-  color: white;
+  color: #c2dce4;
 }
+
+/* https://huemint.com/website-1/#palette=092934-c2dce4-de2d2f */

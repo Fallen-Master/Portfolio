@@ -20,8 +20,8 @@
   color:#006664;
   color: #fffefc; */
 
-  background-color: #152c3b;
-  color: #f4f9fa;
+  background-color: #092934;
+  color: #c2dce4;
 }
 #page-container {
   position: relative;
@@ -31,3 +31,8 @@
 #content-wrap {
   padding-bottom: 2.5rem;    /* Footer height */
 }
+main{
+  height: 100%;
+}
+/* 
+https://huemint.com/website-1/#palette=092934-c2dce4-de2d2f */

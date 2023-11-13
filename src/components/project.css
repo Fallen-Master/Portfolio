@@ -1,0 +1,25 @@
+.project-card {
+  max-width: 300px; /* Adjust this value based on your preference */
+  margin: 5px;
+}
+.project-img {
+  width: auto;
+  height: 200px;
+}
+.project-card {
+  max-width: 300px; /* Adjust width as needed */
+  height: 500px; /* Fixed height for all cards */
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.project-card .card-content {
+  flex-grow: 1;
+}
+.project-description {
+  height: 150px; /* Adjust the height as needed */
+  overflow-y: auto; /* Enables vertical scrolling */
+  padding: 10px;
+  margin-bottom: 10px;
+}
